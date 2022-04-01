@@ -1,4 +1,4 @@
-# Hellp_Abruptio_Model_App
+# HELLP_Abruptio_Model_App
 Predicting the risk of developing HELLP syndrome or abruptio placentae
 
 
